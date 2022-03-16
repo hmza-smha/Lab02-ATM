@@ -17,7 +17,9 @@
 ![image](./interface.png)
 
 > Choose one of the three the operation above
+
 > The program will ask you for the amount.
+
 > You have to insert numerical values, otherwise it will throw an exception.
 
 
